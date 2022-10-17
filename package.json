@@ -1,0 +1,32 @@
+{
+  "name": "portfolio1",
+  "version": "1.0.0",
+  "description": "Portfolio1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puskas/Portfolio1.git"
+  },
+  "keywords": [
+    "three",
+    "portfolio"
+  ],
+  "author": "fs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puskas/Portfolio1/issues"
+  },
+  "homepage": "https://github.com/puskas/Portfolio1#readme",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "three": "^0.145.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
